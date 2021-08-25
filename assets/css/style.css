@@ -95,13 +95,13 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-#hero .hero-logo {
+/* #hero .hero-logo {
   margin: 20px;
-}
+} */
 
-#hero .hero-logo img {
+/* #hero .hero-logo img {
   max-width: 100%;
-}
+} */
 
 #hero .hero-container {
   background: rgba(0, 0, 0, 0.8);
@@ -132,11 +132,6 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 50px;
 }
 
-#hero .hero-stm{
-  width: 500px;
-  margin: auto;
-  margin-bottom: 2em;
-}
 
 #hero h2 span {
   color: #fff;
@@ -1055,3 +1050,4 @@ section {
   font-size: 13px;
   color: #ccc;
 }
+
